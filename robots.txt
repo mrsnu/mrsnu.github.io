@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mrsnu.github.io/sitemap.xml
