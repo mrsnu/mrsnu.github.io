@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mrsnu.github.io/sitemap.xml
+Sitemap: https://band.snu.ac.kr/sitemap.xml
